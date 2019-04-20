@@ -1,0 +1,37 @@
+.r1{
+    text-align: center;
+
+}
+.meta{
+    color: blue;
+    font-size: 30px;
+}
+.m2{
+    color: rgb(65, 65, 219);
+    font-size: 30px;
+    
+}
+.meta ,.m2{
+    display: inline ;
+    margin: 100px;
+    
+}
+.m3{
+    
+    font-size: 20px;
+   
+}
+.m4{
+    font-size: 20px
+}
+.m3 ,.m4{
+    display: inline;
+    margin: 130px;
+}
+.b1 ,.b2{
+    font-size: 24px;
+    padding-left: 32px;
+}
+.v2{
+    padding-left: 30px
+}
